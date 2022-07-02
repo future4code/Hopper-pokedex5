@@ -4,8 +4,7 @@ import styled from "styled-components";
 const Header = styled.header`
 display:flex;
 justify-content:space-between;
-background: rgb(19,28,120);
-background: linear-gradient(180deg, rgba(19,28,120,1) 0%, rgba(57,91,189,1) 43%, rgba(236,224,38,0.8575805322128851) 100%);
+background: linear-gradient(180deg, rgba(120,19,29,1) 0%, rgba(191,39,42,1) 43%, rgba(179,61,67,0.8575805322128851) 100%);
 font-family: 'Pokemon Solid', sans-serif;
 `
 const Body = styled.body`
@@ -13,6 +12,7 @@ display:flex;
 background-color:#f5fffa;
 width:100%;
 height:90vh;
+
 `
 const Cards = styled.div`
 display:grid;
@@ -22,6 +22,7 @@ width:200px;
 height:300px;
 margin-left:30px;
 margin-top:10px;
+
 `
 const Button = styled.button`
 display:flex;
@@ -47,6 +48,8 @@ display:flex;
 justify-content:center;
 margin-left:550px;
 font-size:30px;
+-webkit-text-stroke: 0.5px #1E90FF;
+color: #FFFF00;
 `
 
 function Pokedex(){
