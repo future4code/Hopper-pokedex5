@@ -5,12 +5,12 @@ Nome dos integrantes:
 - Gustavo
 - Aline
 
-Link do Surge: www.link.com.br
+Link do Surge: https://secretive-family.surge.sh/
 
 O que funciona:
-- Item 1
-- Item 2
+- Todos os componentes estao pegando
+
 
 O que não funciona: 
-- Item 3
-- Item 4
+- A fonte que foi escolhida nao pegou
+
