@@ -2,8 +2,8 @@
 
 Nome dos integrantes: 
 - Ellen
-- Gustavo
-- Aline
+- Gustavo(fez somente o postman)
+
 
 Link do Surge: https://secretive-family.surge.sh/
 
